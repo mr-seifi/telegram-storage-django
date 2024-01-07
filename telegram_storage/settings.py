@@ -126,6 +126,6 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 TELEGRAM_STORAGE_OPTIONS = {
-    'TOKEN': '5413393410:AAEUy79JUfG_Yy4Kg--viF2LByV6Btc1o8c',
-    'CHANNEL_ID': '@Article_Archive',
+    'TOKEN': 'YOUR_BOT_TOKEN',
+    'CHANNEL_ID': 'YOUR_CHANNEL_ID',
 }
